@@ -1,5 +1,5 @@
 ### Well, hello here!
-(here is my desk, at the moment)
+(at the moment, here is my desk)
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
